@@ -29,6 +29,7 @@ I would like to highlight some of my notable achievements in iOS development:
 - HorizoonX: [Link](https://apps.apple.com/app/horizoonx/id1644369728)
 - Connect.io: [Link](https://apps.apple.com/us/app/connect-io/id1593871121)
 - BlockAPP: [Link](https://apps.apple.com/pk/app/blockapp-2/id1305739077)
+- PayFast: [Link](https://apps.apple.com/pk/app/payfast/id6448896596)
 
 These projects serve as evidence of my ability to develop innovative and user-friendly iOS applications across various domains.
 
