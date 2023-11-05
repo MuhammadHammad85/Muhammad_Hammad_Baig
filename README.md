@@ -33,7 +33,7 @@ I would like to highlight some of my notable achievements in iOS development:
 These projects serve as evidence of my ability to develop innovative and user-friendly iOS applications across various domains.
 
 ## Current Project
-In addition to my professional experience, I am currently engaged in a freelance project within the fintech domain. I am developing an iOS app called PayFast, which aims to provide users with a seamless and secure payment experience. This project has further expanded my knowledge and skills in iOS development, particularly in integrating payment gateways and ensuring data privacy.
+In addition to my professional experience, I am currently engaged in the fintech domain. I developed an iOS app called PayFast, which aims to provide users with a seamless and secure payment experience. This project has further expanded my knowledge and skills in iOS development, particularly in integrating payment gateways and ensuring data privacy.
 
 ## Contribution and Growth
 I firmly believe that my passion for iOS development, combined with my experience and ongoing commitment to learning, would make me a valuable addition to your team. I am enthusiastic about contributing to your organization's success by delivering exceptional results and actively participating in the growth and development of your mobile app projects. With a keen attention to detail and a dedication to crafting high-quality applications, I am excited to make a meaningful impact within your company.
